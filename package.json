@@ -1,0 +1,23 @@
+{
+  "name": "automacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:ui": "npx playwright test --ui",
+    "show-report": "npx playwright show-report",
+    "allure-report": "npx allure generate ./allure-results --clean && allure open allure-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.16",
+    "allure-commandline": "^2.27.0",
+    "allure-playwright": "^2.12.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.1"
+  }
+}

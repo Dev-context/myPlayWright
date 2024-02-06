@@ -1,0 +1,8 @@
+{
+  "product_title_lbl": "span.title",
+  "product_badge_lbl": "span.shopping_cart_badge",
+  "product_container":".inventory_item_description",
+  "product_name_lbl": "div.inventory_item_name",
+  "addCart_btn": "button[data-test=add-to-cart-sauce-labs-bike-light]",
+  "removeCart_btn": "button[data-test=remove-sauce-labs-bike-light]"
+}

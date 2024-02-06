@@ -1,0 +1,6 @@
+{
+    "userName_ipt":"#user-name",
+    "password_ipt":"#password",
+    "login_btn":"#login-button",
+    "error_alert_lbl":"h3[data-test=error]"
+}

@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Feb 06 09:31:05 BRT 2024","Tue Feb 06 09:31:34 BRT 2024","29270","chromium","products\products.spec.ts","Products","","","add Product Item",""
+"passed","Tue Feb 06 09:31:05 BRT 2024","Tue Feb 06 09:31:46 BRT 2024","40467","chromium","login\login.spec.ts","Login","","","login with success",""
+"failed","Tue Feb 06 09:31:34 BRT 2024","Tue Feb 06 09:31:47 BRT 2024","12531","chromium","products\products.spec.ts","Products","","","Check product name starts with Sauce Labs",""
+"passed","Tue Feb 06 09:31:06 BRT 2024","Tue Feb 06 09:31:42 BRT 2024","35913","chromium","products\products.spec.ts","Products","","","remove product Item",""
+"passed","Tue Feb 06 09:31:05 BRT 2024","Tue Feb 06 09:31:41 BRT 2024","36072","chromium","login\login.spec.ts","Login","","","login with invalid credentials",""
